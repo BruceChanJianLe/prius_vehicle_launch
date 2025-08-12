@@ -1,4 +1,4 @@
-# sample_vehicle_launch
+# prius_vehicle_launch
 
 🗃️ This is an archived repository.
 
